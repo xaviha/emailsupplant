@@ -1,7 +1,7 @@
 # Email-Supplant
 Herramienta de Suplantación de Correos Electrónicos.
 # INSTALACIÓN
-chmod 777 Email-Supplant.sh
+chmod 777 emailsupplant.sh
 # USO
-./Email-Supplant.sh
+./emailsupplant.sh
 # Created by: Informatic_in_Termux
